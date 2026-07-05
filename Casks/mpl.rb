@@ -1,6 +1,6 @@
 cask "mpl" do
-  version "0.20.1"
-  sha256 "5287f2588f9279e2c1fdfa489b0d49545a0a65281892fb742832b20cddfb9daa"
+  version "0.21.0"
+  sha256 "1c41f9b0952a4fbf1e8b5daa13524e7352384e21712e27c6da3ed6758b395d20"
 
   url "https://github.com/Mindpool-Labs/mpl/releases/download/v#{version}/mpl-aarch64-apple-darwin.tar.gz"
   name "mpl"
